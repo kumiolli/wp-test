@@ -2,7 +2,7 @@
   "global": {
     "color": {
       "white": {
-        "value": "#ffffff",
+        "value": "#9e9191",
         "type": "color"
       },
       "black": {
@@ -931,7 +931,9 @@
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
-      "global"
+      "global",
+      "material-3-color",
+      "material-3-text"
     ]
   }
 }
