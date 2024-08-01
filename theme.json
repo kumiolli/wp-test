@@ -2,7 +2,7 @@
   "global": {
     "color": {
       "white": {
-        "value": "#9e9191",
+        "value": "#fff",
         "type": "color"
       },
       "black": {
