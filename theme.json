@@ -1,6 +1,6 @@
 {
   "global": {
-    "vari": {
+    "color": {
       "white": {
         "value": "#fff",
         "type": "color"
